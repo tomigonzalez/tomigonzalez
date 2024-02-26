@@ -17,8 +17,8 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 - 🔧 Actualmente estoy en busca de Trabajo en el sector y mientras realizando proyectos propios.
 
 - 💡 Tengo mucha curiosidad sobre el uso de la IA.
-- 📖 Actualmente estoy mejorando mi parte Back End , mejorando NodeJs y aprendiendo JAVA.
-- ❄️ Estoy buscando colaborar en... Proyectos de código abierto y cualquier tipo de practica que me sirva para mejorar.
+- 📖 Actualmente estoy enfocado en mi parte Back End , mejorando en NodeJs y aprendiendo JAVA.
+- ❄️ Estoy buscando colaborar en... Proyectos de código abierto y cualquier tipo de practica que me sirva como experiencia.
 - 📫 Comunicate conmigo en: tomigonnzalez1@gmail.com.
 
 <hr>
