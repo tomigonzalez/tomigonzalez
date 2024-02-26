@@ -7,8 +7,8 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 
 #DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #UXUI</i></p>
 
-<iframe src="https://gifer.com/embed/6M8G" width="50%" align="right"></iframe>
-<img src="" width="50%" align="right" />
+
+<img src="https://experienciajoven.com/wp-content/uploads/2023/01/programacion_gamer_001.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre mi
 
