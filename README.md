@@ -10,7 +10,7 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-## ⚡🙋‍♂️ About Me
+## ⚡🙋‍♂️ Sobre mi
 
 </br>
 
@@ -39,11 +39,11 @@ You can click the Preview link to take a look at your changes.
  <tr>
     <td width="60%">
      
-## 🛠️ Skills
+## 🛠️ Habilidades
 
-#### Languages
+#### Languajes
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
