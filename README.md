@@ -51,13 +51,14 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Development
-![Tailwind](https://img.shields.io/badge/Tailwind-092E20?style=flat&logo=tailwind&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/NodeJs-092E20?style=flat&logo=nodejs&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=laravel&logo=flask&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-F7DF1E?style=flat&logo=angular&logoColor=black)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![Tailwind](https://img.shields.io/badge/Tailwind-092E20?style=flat&logo=tailwind&logoColor=white)&nbsp;
 
 
 
