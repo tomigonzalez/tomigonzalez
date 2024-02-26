@@ -98,6 +98,7 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 
 
 <div style="display:flex;">
+ 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
