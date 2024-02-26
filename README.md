@@ -8,7 +8,7 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 #DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #UXUI</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre mi
 
