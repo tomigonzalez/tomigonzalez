@@ -1,6 +1,6 @@
 # Hola👋, bienvenido a mi perfil de Github
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hola!+Me+Llamo+Tomas;Full+stack+web+developer..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hola!+Me+Llamo+Tomas;Soy+Full+stack+web+developer..."/>
  
  <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
