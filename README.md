@@ -14,12 +14,12 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 🔧 Actualmente estoy en busca de Trabajo en el sector y mientras realizando proyectos propios.
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 💡 Tengo mucha curiosidad sobre el uso de la IA.
+- 📖 Actualmente estoy mejorando mi parte Back End , aprendiendo NodeJs y JAVA.
+- ❄️ Estoy buscando colaborar en... Proyectos de código abierto y cualquier tipo de practica que me sirva para mejorar.
+- 📫 Comunicate conmigo en: tomigonnzalez1@gmail.com.
 
 <hr>
 
