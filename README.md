@@ -2,7 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hola!+Me+llamo+Tomas;Soy+Full+stack+web+developer..."/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>Desarrollador web de 23 años especializado en Front-end con experiencia en React. Adentrandome en el mundo del Back-end utilizando Node.js, SQL, MongoDB y otras tecnologías. Aprendiz autodidacta , formado en bootcamps y Universidad (en curso) en constante búsqueda de desafíos y crecimiento. 
+También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o figma entre otras cosas. 
+
+#DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #UXUI</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
