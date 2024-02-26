@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tomigonzalez"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?usernametomigonzalez&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomigonzalez&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
