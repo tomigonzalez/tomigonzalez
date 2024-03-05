@@ -26,7 +26,6 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Contactame
 
-<br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/tomigonzalez/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:tomigonnzalez@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
