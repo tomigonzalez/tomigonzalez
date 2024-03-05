@@ -21,7 +21,7 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 - ❄️ Estoy buscando colaborar en... Proyectos de código abierto y cualquier tipo de practica que me sirva como experiencia.
 - 📫 Comunicate conmigo en: tomigonnzalez1@gmail.com.
 
-<hr>
+
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Contactame
