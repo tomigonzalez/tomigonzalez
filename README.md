@@ -14,7 +14,7 @@ También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o
 
 </br>
 
-- 🔧 Actualmente estoy en busca de Trabajo en el sector y mientras realizo proyectos propios.
+- 🔧 Actualmente estoy en busca de trabajo en el sector, mientras realizo proyectos propios.
 
 - 💡 Tengo mucha curiosidad sobre el uso de la IA.
 - 📖 Actualmente estoy enfocado en mi parte Back End , mejorando en NodeJs y aprendiendo JAVA.
