@@ -5,7 +5,7 @@
  <p>- <i>Desarrollador web de 23 años especializado en Front-end con experiencia en React. Mejorando en Back-end utilizando Node.js, SQL, MongoDB y otras tecnologías. Aprendiz autodidacta, formado en bootcamps y Universidad (en curso) en constante búsqueda de desafíos y crecimiento. 
 También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o figma entre otras cosas. 
 
-#DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #FullStack #UXUI</i></p>
+#DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #FullStack #UXUI .</i></p>
 
 
 <img src="https://experienciajoven.com/wp-content/uploads/2023/01/programacion_gamer_001.gif" width="50%" align="right" />
