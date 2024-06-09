@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Me+llamo+Tomas;Soy+Full+stack+web+developer...."/>
  
  <p>Desarrollador web de 23 años especializado en Front-end con experiencia en React. Mejorando en Back-end utilizando Node.js, SQL, MongoDB y otras tecnologías. Aprendiz autodidacta, formado en bootcamps y Universidad(en curso) en constante búsqueda de desafíos y crecimiento. 
-También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o figma entre otras cosas . 
+También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o figma entre otras cosas. 
 Actualmente estoy haciendo pasantias aprendiendo WordPress/PHP
 
 #DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #FullStack #UXUI .</p>
