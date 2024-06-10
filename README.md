@@ -6,7 +6,7 @@
 También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o figma entre otras cosas. 
 Actualmente estoy haciendo pasantias aprendiendo WordPress/PHP
 
-#DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #FullStack #UXUI .</p>
+#DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #FullStack #UXUI.</p>
 
 
 <img src="https://experienciajoven.com/wp-content/uploads/2023/01/programacion_gamer_001.gif" width="50%" align="right" />
