@@ -4,7 +4,7 @@
  
  <p>Desarrollador web de 24 años especializado en Front-end con experiencia en React. Mejorando en Back-end utilizando Node.js, SQL, MongoDB y otras tecnologías. Aprendiz autodidacta, formado en bootcamps y Universidad(en curso) en constante búsqueda de desafíos y crecimiento. 
 También incursiono en UX/UI y diseño, creando mis propios diseños Photoshop o figma entre otras cosas. 
-Actualmente estoy haciendo pasantias aprendiendo WordPress/PHP.
+Actualmente estoy haciendo pasantias mejorando lo que se y aprendiendo muchas cosas mas como WordPress, PHP, entre otras cosas.
 
 #DesarrolladorWeb #Frontend #React #NodeJS #SQL #MongoDB #WebDevelopment #FullStack #UXUI.</p>
 
